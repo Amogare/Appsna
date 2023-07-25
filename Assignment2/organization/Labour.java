@@ -1,4 +1,4 @@
-package Assignment2;
+package Assignment2.organization;
 
 public class Labour extends Employee {
 	private double overTime;

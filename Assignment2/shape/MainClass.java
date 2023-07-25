@@ -1,4 +1,4 @@
-package Assignment2;
+package Assignment2.shape;
 
 public class MainClass {
 public static void main(String[] args) {
